@@ -7,3 +7,4 @@ Notes for [HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro](https://w
 * [3] [Animating the Canvas | HTML5 Canvas Tutorial for Beginners - Ep. 3](https://www.youtube.com/watch?v=yq2au9EfeRQ).
 * [4] [Interacting with The Canvas | HTML5 Canvas Tutorial for Beginners - Ep. 4](https://www.youtube.com/watch?v=vxljFhP2krI).
 * [5] [How to Code: Gravity](https://www.youtube.com/watch?v=3b7FyIxWW94).
+  * [Canvas Boilerplate](https://github.com/christopher4lis/canvas-boilerplate)
