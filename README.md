@@ -9,3 +9,5 @@ Notes for [HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro](https://w
 * [5] [How to Code: Gravity](https://www.youtube.com/watch?v=3b7FyIxWW94).
   * [Canvas Boilerplate](https://github.com/christopher4lis/canvas-boilerplate)
 * [6] [How to Code: Collision Detection — Part I](https://www.youtube.com/watch?v=XYzA_kPWyJ8).
+* [7] [Chris Courses](https://www.youtube.com/watch?v=789weryntzM).
+  * [elastic-collision](https://gist.github.com/christopher4lis/f9ccb589ee8ecf751481f05a8e59b1dc)
