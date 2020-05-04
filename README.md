@@ -11,3 +11,4 @@ Notes for [HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro](https://w
 * [6] [How to Code: Collision Detection — Part I](https://www.youtube.com/watch?v=XYzA_kPWyJ8).
 * [7] [How to Code: Collision Detection Part II](https://www.youtube.com/watch?v=789weryntzM).
   * [elastic-collision](https://gist.github.com/christopher4lis/f9ccb589ee8ecf751481f05a8e59b1dc)
+* [8] [How to Code: Circular Motion](https://www.youtube.com/watch?v=raXW5J1Te7Y).
